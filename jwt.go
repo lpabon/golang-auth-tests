@@ -7,6 +7,8 @@ import (
 
 /*
  * Works with https://github.com/auth0/go-jwt-middleware for Negroni
+ *
+ * Python also works: https://github.com/jpadilla/pyjwt/
  */
 
 func main() {
